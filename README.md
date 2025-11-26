@@ -9,7 +9,7 @@
 
 ---
 
-## 🔥 About LydPay
+##  About LydPay
 **LydPay** is a next-generation **Payment CRM** engineered for businesses, call centers, and enterprise-level merchants.  
 We combine **lead management, multi-channel payments, fraud protection, and chargeback management** into a single seamless ecosystem.
 
@@ -24,7 +24,7 @@ Our platform supports:
 
 ---
 
-## 🏆 What We Build
+##  What We Build
 - Unified **CRM + Payment Processing** platform  
 - Real-time fraud & risk management  
 - Multi-gateway and multi-bank routing  
@@ -35,7 +35,7 @@ Our platform supports:
 
 ---
 
-## 📂 Open Source & Repositories
+##  Open Source & Repositories
 ### 🔧 Core Projects
 - **LydPay Platform** – API, payments engine, CRM logic  
 - **LydPay Frontend** – Merchant dashboard & admin portal  
@@ -45,7 +45,7 @@ Our platform supports:
 
 ---
 
-## 🧩 Technology Stack
+##  Technology Stack
 - **Backend:** Node.js / TypeScript / Microservices  
 - **Frontend:** React / Next.js / Tailwind  
 - **Database:** PostgreSQL / Redis  
@@ -55,7 +55,7 @@ Our platform supports:
 
 ---
 
-## 🔒 Security & Compliance
+##  Security & Compliance
 - PCI-ready architecture  
 - Tokenized payment handling  
 - Fraud scoring with metadata collection  
@@ -64,7 +64,7 @@ Our platform supports:
 
 ---
 
-## 🛣️ Roadmap Highlights
+##  Roadmap Highlights
 - 📱 Mobile merchant app  
 - 🤖 AI-powered fraud engine  
 - 🌍 More countries + multi-currency support  
@@ -72,7 +72,7 @@ Our platform supports:
 
 ---
 
-## 🤝 Collaboration & Partnership
+##  Collaboration & Partnership
 We actively work with:
 - PSPs & Banks  
 - Payment Gateways  
