@@ -80,7 +80,7 @@ We actively work with:
 - Lead Generation Agencies  
 - Enterprise Merchants  
 
-For business or partnership inquiries: **contact@lydpay.com**
+For business or partnership inquiries: **lydpayplatform@gmail.com**
 
 ---
 
@@ -88,6 +88,7 @@ For business or partnership inquiries: **contact@lydpay.com**
 <p>
   <a href="https://lydpay.com/"><b>🌍 Website</b></a> •
   <a href="https://github.com/lydpay-crm"><b>💻 GitHub</b></a>
+  <a href="mailto:lydpayplatform@gmail.com"><b>💌 Email</b></a>
 </p>
 
 ---
