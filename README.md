@@ -84,7 +84,7 @@ For business or partnership inquiries: **lydpayplatform@gmail.com**
 
 ---
 
-## 🌐 Connect With Us
+##  Connect With Us
 <p>
   <a href="https://lydpay.com/"><b>🌍 Website</b></a> •
   <a href="https://github.com/lydpay-crm"><b>💻 GitHub</b></a>
